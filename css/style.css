@@ -1,0 +1,174 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+#titlebox {
+
+
+    padding: 5%;
+    padding-top: 2%;
+    width: 90%;
+    height: auto;
+}
+
+.navbar-brand {
+    margin-left: 5px;
+    color: rgb(97, 0, 0);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+}
+
+.nav-link {
+    margin-top: 5px;
+    margin-right: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 100%;
+}
+
+
+.titleimage1 {
+
+    margin: 5% 0 0 0;
+}
+
+.running {
+    margin: 5% 0 0 0;
+    width: 100%;
+    height: auto;
+}
+
+#titlecol1 {
+    margin: 10% 0 0 0;
+}
+
+.head1 {
+    color: #000000;
+    font-family: 'Merriweather', serif;
+    margin: 0 0 2% 0;
+    font-size: 80px;
+}
+
+.para1 {
+    color: #000000;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2.5;
+}
+
+.switch1 {
+    margin: 2% 2% 0 0;
+}
+.servicehead{
+    
+    padding: 3%;
+    margin: auto;
+    width: 90%;
+    height: auto;
+   background-color: #000000;
+    text-align: center;
+    color: #ffffff;
+}
+#service-container{
+    width: 90%;
+    height: auto;
+}
+.serviceimg{
+    
+    width: 30%;
+    height: auto;
+}
+.service-text{
+    
+    text-align: center;
+margin: 5% 0 10% 0;
+}
+.service-img-div{
+    text-align: center;
+}
+.servicetype{
+    font-weight: 900;
+}
+
+#service-row{
+    margin: 5% 0 0 0;
+}
+
+.howdiv{
+    
+    padding: 3%;
+    margin: auto;
+    width: 90%;
+    height: auto;
+   background-color: #000000;
+    text-align: center;
+    color: #ffffff;
+}
+#steps12{
+    margin: 10% 0 0 0;
+}
+.row2{
+    margin: 0 0 10% 0;
+}
+.step-col{
+    /* background-color: rgb(0, 0, 0); */
+    text-align: center;
+    padding: 15px;
+}
+.step-col2{
+    
+    margin:auto;
+}
+.steps12{
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    width: 90%;
+    height: auto;
+}
+.stepimg{
+    width: 100%;
+    height: auto;
+}
+.step1{
+    color: #7149C6;
+    font-weight: 900;
+}
+.startimg{
+    width: 100%;
+    height: auto;
+}
+.startrow{
+    padding: 10%;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    width: 90%;
+    height: auto;
+    background-color: #ECF2FF;
+}
+.start2{
+margin-top: 100px;
+}
+.start3{
+    margin-top: 20px;
+}
+span{
+    color: #7149C6;
+}
+.footrow{
+    background-color: #000000;
+    padding: 5%;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: none;
+    width: 90%;
+    height: auto;
+}
+.foot-text{
+    color: #fff;
+}
+#endfooter{
+    background-color: #000000;
+}
