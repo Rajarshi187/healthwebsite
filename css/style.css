@@ -2,6 +2,11 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+.navbar-toggler{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
 #titlebox {
 
 
@@ -15,7 +20,7 @@ body {
     margin-left: 5px;
     color: rgb(97, 0, 0);
     font-family: 'Montserrat', sans-serif;
-    font-size: 50px;
+    font-size: 30px;
 }
 
 .nav-link {
@@ -194,7 +199,9 @@ span {
     background-color: #000000;
 }
 
-
+.para-footer{
+    color: #fff;
+}
 
 
 
@@ -207,6 +214,7 @@ span {
 }
 
 .signin-form {
+    padding: 20px;
     margin-left: auto;
     margin-right: auto;
     width: 60%;
@@ -294,18 +302,18 @@ span {
 
     .signin-form {
         
-        
+        padding: 20px;
         margin-top: 50px;
         margin-left: auto;
         margin-right: auto;
-        width: 400px;
-        height: 500px;
+        width: 350px;
+        height: 550px;
         background-color: #000000;
 
     }
 
     .signin2 {
-        margin: 10% 0% 27% 14%;
+        margin: 10% 0% 27% 5%;
         float: left;
     }
 
@@ -330,13 +338,13 @@ span {
 
 @media (min-width: 481px) and (max-width: 767px) {
     .signin-form {
-        
+        padding: 20px;
         
         margin-top: 50px;
         margin-left: auto;
         margin-right: auto;
         width: 500px;
-        height: 500px;
+        height: 550px;
         background-color: #000000;
 
     }
@@ -365,12 +373,12 @@ span {
 @media (min-width: 768px) and (max-width: 1024px){
     .signin-form {
         
-        
+        padding: 20px;
         margin-top: 50px;
         margin-left: auto;
         margin-right: auto;
         width: 500px;
-        height: 500px;
+        height: 550px;
         background-color: #000000;
 
     }
@@ -399,12 +407,12 @@ span {
 @media (min-width: 1025px) and (max-width: 1280px){
     .signin-form {
         
-        
+        padding: 20px;
         margin-top: 50px;
         margin-left: auto;
         margin-right: auto;
         width: 500px;
-        height: 500px;
+        height: 550px;
         background-color: #000000;
 
     }
