@@ -172,3 +172,236 @@ span{
 #endfooter{
     background-color: #000000;
 }
+
+
+
+/* signin window */
+
+.btn:hover {
+
+    background-color: #7149C6;
+}
+
+.signin-form {
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    height: 600px;
+    background-color: #0A4D68;
+
+}
+
+.signin2 {
+    margin: 10% 0 27% 10%;
+    float: left;
+
+}
+
+.imagesign {
+    margin-right: 150px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    float: right;
+}
+
+.imgrun {
+    width: 300px;
+}
+
+.class1 {
+
+    margin: 15px 0 15px 0;
+}
+
+.inp-grp {
+    padding: 2%;
+    width: 100%;
+}
+
+.label-form {
+    color: #ffff;
+    font-weight: 200;
+    font-size: 10px;
+}
+
+.head-sign {
+    font-weight: 500;
+    color: #ffffff;
+    margin-top: 5%;
+}
+
+.link-forgot {
+    color: #bbdeff;
+    text-decoration: none;
+    font-size: 70%;
+    margin-left: 65%;
+}
+
+.btn-signin {
+
+    text-align: center;
+}
+
+.btn22 {
+    width: 100%;
+}
+
+.heading-signin-form {
+    text-align: center;
+}
+
+.para67 {
+    color: #ffff;
+    text-align: center;
+    font-size: 100%;
+}
+
+.link-2-signup {
+    color: #bbdeff;
+    text-decoration: none;
+}
+
+.linkofsign:hover{
+    color: #cfb9ff;}
+
+
+
+@media (max-width:480px) {
+
+    .signin-form {
+        
+        
+        margin-top: 50px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 400px;
+        height: 500px;
+        background-color: #0A4D68;
+
+    }
+
+    .signin2 {
+        margin: 10% 0% 27% 14%;
+        float: left;
+    }
+
+    .para67{
+        margin-top: 40%;
+        color: #ffff;
+        text-align: center;
+    font-size: 100%;
+    }
+
+    .imagesign {
+        display: none;
+        margin-right: 150px;
+        margin-top: 150px;
+        margin-bottom: 150px;
+        float: right;
+    }
+
+
+}
+
+
+@media (min-width: 481px) and (max-width: 767px) {
+    .signin-form {
+        
+        
+        margin-top: 50px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 500px;
+        height: 500px;
+        background-color: #0A4D68;
+
+    }
+
+    .signin2 {
+        margin: 10% 0% 27% 20%;
+        float: left;
+    }
+
+    .para67{
+        margin-top: 40%;
+        color: #ffff;
+        text-align: center;
+    font-size: 100%;
+    }
+
+    .imagesign {
+        display: none;
+        margin-right: 150px;
+        margin-top: 150px;
+        margin-bottom: 150px;
+        float: right;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1024px){
+    .signin-form {
+        
+        
+        margin-top: 50px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 500px;
+        height: 500px;
+        background-color: #0A4D68;
+
+    }
+
+    .signin2 {
+        margin: 10% 0% 27% 20%;
+        float: left;
+    }
+
+    .para67{
+        margin-top: 40%;
+        color: #ffff;
+        text-align: center;
+    font-size: 100%;
+    }
+
+    .imagesign {
+        display: none;
+        margin-right: 150px;
+        margin-top: 150px;
+        margin-bottom: 150px;
+        float: right;
+    }
+}
+
+@media (min-width: 1025px) and (max-width: 1280px){
+    .signin-form {
+        
+        
+        margin-top: 50px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 500px;
+        height: 500px;
+        background-color: #0A4D68;
+
+    }
+
+    .signin2 {
+        margin: 10% 0% 27% 20%;
+        float: left;
+    }
+
+    .para67{
+        margin-top: 40%;
+        color: #ffff;
+        text-align: center;
+    font-size: 100%;
+    }
+
+    .imagesign {
+        display: none;
+        margin-right: 150px;
+        margin-top: 150px;
+        margin-bottom: 150px;
+        float: right;
+    }
+}
