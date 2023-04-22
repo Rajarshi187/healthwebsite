@@ -1,4 +1,4 @@
-body{
+body {
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -57,67 +57,78 @@ body{
 .switch1 {
     margin: 2% 2% 0 0;
 }
-.servicehead{
-    
+
+.servicehead {
+
     padding: 3%;
     margin: auto;
     width: 90%;
     height: auto;
-   background-color: #000000;
+    background-color: #000000;
     text-align: center;
     color: #ffffff;
 }
-#service-container{
+
+#service-container {
     width: 90%;
     height: auto;
 }
-.serviceimg{
-    
+
+.serviceimg {
+
     width: 30%;
     height: auto;
 }
-.service-text{
-    
+
+.service-text {
+
     text-align: center;
-margin: 5% 0 10% 0;
+    margin: 5% 0 10% 0;
 }
-.service-img-div{
+
+.service-img-div {
     text-align: center;
 }
-.servicetype{
+
+.servicetype {
     font-weight: 900;
 }
 
-#service-row{
+#service-row {
     margin: 5% 0 0 0;
 }
 
-.howdiv{
-    
+.howdiv {
+
     padding: 3%;
     margin: auto;
     width: 90%;
     height: auto;
-   background-color: #000000;
+    background-color: #000000;
     text-align: center;
     color: #ffffff;
 }
-#steps12{
+
+#steps12 {
     margin: 10% 0 0 0;
 }
-.row2{
+
+.row2 {
     margin: 0 0 10% 0;
 }
-.step-col{
+
+.step-col {
     /* background-color: rgb(0, 0, 0); */
     text-align: center;
     padding: 15px;
 }
-.step-col2{
-    
-    margin:auto;
+
+.step-col2 {
+
+    margin: auto;
 }
-.steps12{
+
+.steps12 {
     margin-top: 50px;
     margin-left: auto;
     margin-right: auto;
@@ -125,19 +136,23 @@ margin: 5% 0 10% 0;
     width: 90%;
     height: auto;
 }
-.stepimg{
+
+.stepimg {
     width: 100%;
     height: auto;
 }
-.step1{
+
+.step1 {
     color: #7149C6;
     font-weight: 900;
 }
-.startimg{
+
+.startimg {
     width: 100%;
     height: auto;
 }
-.startrow{
+
+.startrow {
     padding: 10%;
     margin-top: 50px;
     margin-left: auto;
@@ -147,16 +162,20 @@ margin: 5% 0 10% 0;
     height: auto;
     background-color: #ECF2FF;
 }
-.start2{
-margin-top: 100px;
+
+.start2 {
+    margin-top: 100px;
 }
-.start3{
+
+.start3 {
     margin-top: 20px;
 }
-span{
+
+span {
     color: #7149C6;
 }
-.footrow{
+
+.footrow {
     background-color: #000000;
     padding: 5%;
     margin-top: 50px;
@@ -166,12 +185,17 @@ span{
     width: 90%;
     height: auto;
 }
-.foot-text{
+
+.foot-text {
     color: #fff;
 }
-#endfooter{
+
+#endfooter {
     background-color: #000000;
 }
+
+
+
 
 
 
@@ -405,3 +429,4 @@ span{
         float: right;
     }
 }
+
